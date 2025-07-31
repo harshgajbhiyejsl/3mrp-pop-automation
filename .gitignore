@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets / env files
+.env
+.env.*
+
+# Data & archives
+*.xlsx
+*.csv
+/data_raw/
+/archives/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+.venv/
